@@ -4,13 +4,13 @@
     font-family: Roboto;
 }
 section{
-background-color: blue;(238 , 255 , 0)
+     background-color: blue;(238 , 255 , 0)
 padding-top: 80px;
-padding-bottom: 80px;
-display: flex;
-justify-content: center;
-padding-left: 20px;
-padding-right: 20px;
+ padding-bottom: 80px;
+ display: flex;
+ justify-content: center;
+ padding-left: 20px;
+ padding-right: 20px;
 }
 .chamada-texto{
     margin-right: 40px;
